@@ -38,7 +38,7 @@ The learning objectives for this laboratory assignment are as follows:
 - To use a Docker container to run the automated checks performed by GatorGrader
 - To install the programs that you need to support the creation of a Python program
 - To use a terminal window to run a Python program and observe its output
-- To use your text editor and a terminal window to implement iterative functions to a Python program
+- To use your text editor and a terminal window to implement iterative functions in a Python program
 - To use iteration constructs to calculate a sequence of mathematical functions that use exponentiation
 - To learn how Python programs can use iteration, conditional logic, and lists of integers
 - To use your text editor and a terminal window to run a test suite for a Python program
